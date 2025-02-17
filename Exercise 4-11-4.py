@@ -1,4 +1,5 @@
 import turtle
+import math
 
 def main():
     # Create a turtle object
