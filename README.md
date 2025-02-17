@@ -33,7 +33,8 @@ were anything besides "6".
 
 - 4.11.5
 
-
+When comparing the two solutions they look more or less the same. Granted, I asked ChatGPT for a lot of assistance 
+with this because geometry is not my strong suit so I think that's why the two solutions are more aligned.
 
 <h2>Ask yourself which solution is better and why?</h2>
 
@@ -62,6 +63,8 @@ how many triangles or "slices" are being used.
 
 - 4.11.5
 
+I think the two solutions are more or less the same, outside of the intructor's being a bit more versatile. 
+
 
 <h2>Can either solution be improved and how?</h2>
 
@@ -85,3 +88,6 @@ Yeah, I'd say this is an easy answer since my program doesn't function as it sho
 improved is by rebuilding the program from scratch to follow the instructor's solution more closely.
 
 - 4.11.5
+
+I think they're both pretty good. I'm sure there's always something you can do to improve, but in this case there's 
+nothing that jumps out at me. 
