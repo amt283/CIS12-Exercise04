@@ -10,8 +10,8 @@ def main():
     # create graphics window
     create_canvas(t, 600, 600)
 
-    # Draw pie
-    draw_pie(t, 120, 6)
+    # Draw flower
+    """FLOWER FUNCTION HERE"""
 
     # Close the turtle graphics window when clicked
     turtle.exitonclick()
@@ -37,22 +37,13 @@ def create_canvas(t, width, height):
     t.clear()
 
 def triangle(t, side_length):
-    """Draws triangle using side_length"""
+    """Draws petal using ..."""
 
-    # Draw triangle
-    for i in range(3):
-        t.forward(side_length)   # Draw side
-        t.left(120)          # Angle of triangle
 
-def draw_pie(t, side_length, num_triangles):
-    """Draws pie with equal sized triangles using side_length and num_triangles for slice amount"""
 
-    # Calculate the angle to turn to form the pie
-    angle = 360 / num_triangles
+def draw_flower(t):
+    """Draws flowers equal sized petals using ... and ..."""
 
-    # Draw the pie with the specified number of slices
-    for i in range(num_triangles):
-        triangle(t, side_length)  # Draw one triangle
-        t.left(angle)          # Turn to form the next slice
+    ...
 
 main()
