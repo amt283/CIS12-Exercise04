@@ -10,8 +10,8 @@ def main():
     # create graphics window
     create_canvas(t, 600, 600)
 
-    # Draw rectangle
-    rectangle(t, 80, 40)
+    # Draw rhombus
+    rhombus(t, 80, 40)
 
     # Close the turtle graphics window when clicked
     turtle.exitonclick()
@@ -32,19 +32,19 @@ def create_canvas(t, width, height):
     screen = turtle.Screen()
     screen.bgcolor("darkblue")
     # Set the width and height of the screen
-    screen.setup(width=600, height=600)
+    screen.setup(width=width, height=height)
     # Clear the screen
     t.clear()
 
 
-def rectangle(t, width, height):
-    """Draws rectangle using width and height"""
+def rhombus(t, side_length, angle):
+    """Draws rhombus using side_length and angle"""
 
     # Draw the rectangle
     for i in range(2):
-        t.forward(width)   # Draw the longer side
-        t.left(90)          # Turn 90 degrees
-        t.forward(height)   # Draw the shorter side
-        t.left(90)          # Turn 90 degrees
+        t.forward(side_length)   # Draw side
+        t.left(angle)          # Larger angle
+        t.forward(side_length)   # Draw side again
+        t.left(180 - angle)          # Smaller angle
 
 main()
