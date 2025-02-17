@@ -24,7 +24,15 @@ Similar situation as 4.11.2
 
 - 4.11.4
 
+This one was a tough one, I did not expect my code to be better than the instructor's at all. Mainly because, as I 
+mentioned previously, I tried out the exercises before watching the video just to try to see if my solution would be
+anywhere close and for this exercise, it wasn't even remotely close. I think this is where the function generalization
+starts to really come in handy because the instructor's solution has polygon use polyline to help make the pie shape
+which I think is what tripped me up because when I made the pie shape the triangles wouldn't touch sides if the slices
+were anything besides "6".
+
 - 4.11.5
+
 
 
 <h2>Ask yourself which solution is better and why?</h2>
@@ -49,6 +57,9 @@ Similar situation as 4.11.1 and 4.11.2
 
 - 4.11.4
 
+Definitely the instructor's because his solution is able to consistently produce a pie out of triangles regardless of 
+how many triangles or "slices" are being used.
+
 - 4.11.5
 
 
@@ -69,5 +80,8 @@ even further.
 Similar situation as 4.11.1 and 4.11.2
 
 - 4.11.4
+
+Yeah, I'd say this is an easy answer since my program doesn't function as it should. I think the way it could be 
+improved is by rebuilding the program from scratch to follow the instructor's solution more closely.
 
 - 4.11.5
