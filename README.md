@@ -13,9 +13,14 @@ draw the shape which more or less matched what polyline() was doing.
 
 - 4.11.2
 
-This is a similar situation to 4.11.1
+This is a similar situation to 4.11.1 where the instructor's code is much more streamlined and efficient and I can see 
+how that would be incredibly useful depending on what needs to be done with the program. I think it gives the 
+programmers much more flexibility to make the program do a wider variety of tasks with the least amount of code 
+possible.
 
 - 4.11.3
+
+Similar situation as 4.11.2
 
 - 4.11.4
 
@@ -40,6 +45,8 @@ tasks compared to a program that is only capable of making "rectangles" and "rho
 
 - 4.11.3
 
+Similar situation as 4.11.1 and 4.11.2
+
 - 4.11.4
 
 - 4.11.5
@@ -58,6 +65,8 @@ I definitely think my solution could be improved by following the instructor's e
 even further.
 
 - 4.11.3
+
+Similar situation as 4.11.1 and 4.11.2
 
 - 4.11.4
 
