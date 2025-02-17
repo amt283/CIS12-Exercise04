@@ -45,6 +45,7 @@ def triangle(t, side_length):
         t.left(120)          # Angle of triangle
 
 def draw_pie(t, side_length, num_triangles):
+    """Draws pie with equal sized triangles using side_length and num_triangles for slice amount"""
 
     # Calculate the angle to turn to form the pie
     angle = 360 / num_triangles
