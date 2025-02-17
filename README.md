@@ -4,11 +4,16 @@
 
 - 4.11.1
 
-When comparing my program with the instructor's I'd have to say the instructor's is much more complex.
+When comparing my program with the instructor's I'd have to say the instructor's is much more complex but the video
+does acknowledge that there were quite a few functions from the book that never got used, such as jump, so I'd say
+they balance out.
+
 For my program I just created the canvas and the rectangle function that would take a height and width to 
-draw the shape. 
+draw the shape which more or less matched what polyline() was doing.
 
 - 4.11.2
+
+This is a similar situation to 4.11.1
 
 - 4.11.3
 
@@ -28,6 +33,11 @@ reusability.
 
 - 4.11.2
 
+Same situation as 4.11.1. I took a crack at the exercises before I watched the Exercise 04 
+video so I could see how the two solutions differed, so I think the instructor's code is much better and much more 
+streamlined. Not only that but the code is much more compartmentalized so code can be reused for a wider variety of 
+tasks compared to a program that is only capable of making "rectangles" and "rhombuses"
+
 - 4.11.3
 
 - 4.11.4
@@ -39,9 +49,13 @@ reusability.
 
 - 4.11.1
 
-I'm sure my solution could be more generalized.
+I'm sure my solution could be more generalized so if someone just wants two lines, for example, they could easily use 
+a function that's designed just for that and I could use that function in the rectangle() to create the shape.
 
 - 4.11.2
+
+I definitely think my solution could be improved by following the instructor's example and generalizing the functions
+even further.
 
 - 4.11.3
 
